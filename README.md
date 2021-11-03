@@ -40,7 +40,7 @@ I support Real Madrid 👿 and Belgium National Teams 😎.
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-fff?&logo=Prometheus)
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
-![React Native](https://reactnative.dev/img/header_logo.svg)
+![React Native](https://img.shields.io/badge/-ReactNative-fff?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-fff?&logo=Spring)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
 
