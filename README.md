@@ -6,14 +6,12 @@
 
 <br>
 
-Hi, I'm [Jacob Liu](https://jacob-liu-g.github.io/), a web and mobile app developer 👨🏻‍💻 from China. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play swimming ♘ and PES ⚽.
+Hi, I'm web and blockchain developer👨🏻. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play swimming ♘ and PES ⚽.
 I support Real Madrid 👿 and Belgium National Teams 😎.
 
 <br>
 
 - 📫 How to reach me: [spring.scene@hotmail.com](mailto:spring.scene@hotmail.com)
-
-- 🔗 My website: [https://jacob-liu-g.github.io/](https://jacob-liu-g.github.io/)
 
  <br>
 
